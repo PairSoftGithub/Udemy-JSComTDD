@@ -20,5 +20,10 @@ Inicializar a lib:
 #GIT
 
 Comandos:
+- git config --global user.name "Andrey Frazatti Alves" (nome de usuário).
+- git config --global user.email "pairsoftbusiness@gmail.com"
+
 - git status (Verificar arquivos modificados ou adicionados)
 - git add <nome do arquivo> ou . para todos (para adicionar os arquivos)
+- git commit -m "Mensagem" (para enviar arquivos para o repositório)
+- git 
