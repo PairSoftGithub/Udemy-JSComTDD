@@ -10,6 +10,13 @@ Configurando o NPM:
 - npm set init-author-url "https://github.com/PairSoftGithub"
 - npm set init-license "MIT"
 
+
+Criando o GitIgnore
+- npm install gitignore -g
+- gitignore -types
+- gitignore Node
+
+
 Logando no NPM:
 - npm adduser
 
@@ -25,5 +32,5 @@ Comandos:
 
 - git status (Verificar arquivos modificados ou adicionados)
 - git add <nome do arquivo> ou . para todos (para adicionar os arquivos)
-- git commit -m "Mensagem" (para enviar arquivos para o repositório)
-- git 
+- git commit -m "Mensagem" (para enviar arquivos para o repositório local)
+- git push (enviar para o repositório remoto)
