@@ -1,0 +1,24 @@
+#NPM
+
+Documentação links:
+https://docs.npmjs.com/misc/
+https://docs.npmjs.com/misc/config
+
+Configurando o NPM:
+- npm set init-author-name "Andrey Frazatti Alves"
+- npm set init-author-email "pairsoftbusiness@gmail.com"
+- npm set init-author-url "https://github.com/PairSoftGithub"
+- npm set init-license "MIT"
+
+Logando no NPM:
+- npm adduser
+
+Inicializar a lib:
+- npm init
+- npm init -y
+
+#GIT
+
+Comandos:
+- git status (Verificar arquivos modificados ou adicionados)
+- git add <nome do arquivo> ou . para todos (para adicionar os arquivos)

@@ -1,0 +1,24 @@
+{
+  "name": "udemy-jscomtdd",
+  "version": "1.0.0",
+  "description": "Curso de boas práticas de JS aplicando TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PairSoftGithub/Udemy-JSComTDD.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Andrey Frazatti Alves <pairsoftbusiness@gmail.com> (https://github.com/PairSoftGithub)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PairSoftGithub/Udemy-JSComTDD/issues"
+  },
+  "homepage": "https://github.com/PairSoftGithub/Udemy-JSComTDD#readme"
+}
